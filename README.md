@@ -5,27 +5,26 @@ The catalogue of all the music I've written and am happy with.
 
 Don't know where to start? Here are some of my favorites:
 
-1. Clarinet Quartet <audio controls>
+1. Clarinet Quartet
+<audio controls>
   <source src="clarinet-quartet.mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
 </audio>
 
-2. Dance of the Drunken Draugr <audio controls>
+2. Dance of the Drunken Draugr
+<audio controls>
   <source src="draugr.mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
 </audio>
 
 3. You've got mail!<audio controls>
   <source src="mail.mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
 </audio>
+
 4. Rondo in A. (fun story I wrote this piece in pure C (the programming language), and the output of the program is the music's waveform! anyway huge missed oppurtunity to put it in the key of C) <audio controls>
   <source src="rondo.mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
 </audio>
+
 5. Autunm Arson. I wrote this for a game and I think it's II V Is are charming. <audio controls>
   <source src="autunm-arson.mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
 </audio>
 
 All the other pieces are good too in my opinion. Have a gander!
