@@ -36,4 +36,4 @@ Don't know where to start? Here are some of my favorites:
 
 All the other pieces are good too in my opinion. Have a gander!
 
-A link to the rest can be found [here](https://github.com/minerscale/catalogue)
+A link to the rest and the scores can be found [here](https://github.com/minerscale/catalogue)
