@@ -15,15 +15,18 @@ Don't know where to start? Here are some of my favorites:
   <source src="draugr.mp3" type="audio/mp3">
 </audio>
 
-3. You've got mail!<audio controls>
+3. You've got mail!
+<audio controls>
   <source src="mail.mp3" type="audio/mp3">
 </audio>
 
-4. Rondo in A. (fun story I wrote this piece in pure C (the programming language), and the output of the program is the music's waveform! anyway huge missed oppurtunity to put it in the key of C) <audio controls>
+4. Rondo in A. (fun story I wrote this piece in pure C (the programming language), and the output of the program is the music's waveform! anyway huge missed oppurtunity to put it in the key of C)
+<audio controls>
   <source src="rondo.mp3" type="audio/mp3">
 </audio>
 
-5. Autunm Arson. I wrote this for a game and I think it's II V Is are charming. <audio controls>
+5. Autunm Arson. I wrote this for a game and I think it's II V Is are charming.
+<audio controls>
   <source src="autunm-arson.mp3" type="audio/mp3">
 </audio>
 
